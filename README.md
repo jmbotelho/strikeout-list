@@ -1,5 +1,9 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## App Usage
+To add an item to the list, enter text into the textbox and click the add button.
+To remove an item from the list, click the item and it will be removed with a half-second delay.
+
 ## Available Scripts
 
 In the project directory, you can run:
